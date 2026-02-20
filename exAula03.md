@@ -228,3 +228,17 @@ A implantação da rede industrial é viável técnica e economicamente.
 Além de aumentar a produtividade, a empresa passará a ter maior controle sobre o processo produtivo, reduzindo falhas e melhorando a tomada de decisão.
 
 O projeto também prepara a indústria para futuras integrações com sistemas corporativos e para a adoção de conceitos de Indústria 4.0.
+
+
+#Links
+
+- clp: https://www.mercadolivre.com.br/clp-siemens-s71200-1214c-6es7-2141ag400xb0-novo/up/MLBU1444299916?pdp_filters=item_id:MLB3227756133#is_advertising=true&searchVariation=MLBU1444299916&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=58e70889-dad5-4714-bab2-de4f842cc471&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ODljNTQ1YzUtM2U3OC00YWE5LTk3N2YtOThkNmVlZGFiYzQ2
+
+- Switch: https://www.mercadolivre.com.br/switch-scalance-xb005-simatic-net-siemens-6gk50050ba001ab2/up/MLBU2932298824#polycard_client=search-desktop&search_layout=grid&position=4&type=product&tracking_id=101c110b-f8d7-4845-bf14-d04fbdc43e7f&wid=MLB3945995571&sid=search
+
+-cabos: https://produto.mercadolivre.com.br/MLB-5877432084-cabo-de-rede-cat6-blindado-100-cobre-cs-300-metros-branco-_JM#polycard_client=search-desktop&search_layout=grid&position=3&type=item&tracking_id=63ebdd01-5d98-4575-b03f-0580bb5a97d7&wid=MLB5877432084&sid=search
+https://www.mercadolivre.com.br/conector-industrial-rj45-cat6a-blindado-profinet-10gbps-500mhz-drc-networks/p/MLB62433127?pdp_filters=item_id:MLB4320959199#is_advertising=true&searchVariation=MLB62433127&backend_model=search-backend&position=2&search_layout=grid&type=pad&tracking_id=b990efc9-2b17-4f47-a9b4-824aa1fc57c9&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=YzJlMjgzMzItZDM4Mi00NmZhLWIxOTktZDYzY2EyMjc5MjIz
+
+-Interface: https://www.mercadolivre.com.br/ihm-siemens-ktp700-basic-6av21232gb030ax0/up/MLBU1688761139?pdp_filters=item_id:MLB1786070684#is_advertising=true&searchVariation=MLBU1688761139&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=a64af463-7e0d-4a4c-a205-e45884907295&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=MjRmOGJlMTAtZTA3MC00ZmNiLWE4ZTUtNjE3ZGQyMzMwODFk
+
+
